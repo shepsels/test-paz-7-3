@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.editor {
+  border: solid 1px #666;
+  width: 80%;
+  height: 200px;
+  margin: 0px auto;
+  box-shadow: 0 1px 4px 0 rgb(75 72 117 / 8%);
+}
+.header {
+  padding: 5px;
+}
